@@ -1,0 +1,24 @@
+h1 {
+    text-align: center; }
+
+
+div>h1 {
+    color:#0d6efd
+}
+
+.Resume {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+}
+
+
+.pfp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 50%;
+}
+
